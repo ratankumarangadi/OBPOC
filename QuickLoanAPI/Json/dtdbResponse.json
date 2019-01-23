@@ -1,0 +1,32 @@
+﻿{
+  "assessorsParcelIdentifier": "808-631-07",
+  "owner": {
+    "ownerName": "DIXON BRIAN L / DIXON PAMELA T",
+    "phoneNumber": "", 
+    "mailingCityAndState": "MISSION VIEJO CA",
+    "mailingPostalCode": "92692",
+    "mailingCarrierRouteIdentifier": "C006",
+    "mailingAddress": "27911 ENCANTO",
+    "ownerOccupiedIndicator": "Y"
+  },
+  "dimensions": {
+    "lotWidthNumber":"",
+    "lotDepthNumber":"",
+    "lotAreaSquareFeetNumber":"6900",
+    "lotAreaAcresNumber":"0.1584"
+  },
+  "characteristics": {
+    "noofStories": "2",
+    "yearBuilt":  "1989"
+  },
+  "propertyValues": {
+    "taxArea": "TX",
+    "assessedYear": "2016",
+    "assessedValue":"97898",
+    "totalTaxableValue": "7609987",
+    "improvementValue": "87697",
+    "landValue": "87587",
+    "marketValue": "251124512",
+    "saleValue": "24524"
+  }
+}
